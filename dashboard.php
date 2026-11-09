@@ -10,7 +10,7 @@ if (!isset($_SESSION["user_id"])) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Dashboard</title>
+    <title>PZWORKZ</title>
 </head>
 <body>
     <h1>PCWORKZ</h1>
